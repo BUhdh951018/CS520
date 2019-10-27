@@ -1,0 +1,10 @@
+Dog
+Cat
+Cat
+Cow
+Dog
+Cow
+Cat
+Dog
+Cat
+Cat
